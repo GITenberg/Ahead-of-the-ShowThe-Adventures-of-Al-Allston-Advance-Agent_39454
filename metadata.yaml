@@ -1,0 +1,24 @@
+_repo: Ahead-of-the-ShowThe-Adventures-of-Al-Allston-Advance-Agent_39454
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39454-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thorpe, Fred
+    gutenberg_agent_id: '40024'
+    url: http://www.gutenberg.org/2009/agents/40024
+description: ''
+gutenberg_issued: '2012-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Performing arts -- United States -- History -- 19th century -- Fiction'
+title: Ahead of the Show; Or, The Adventures of Al Allston, Advance Agent
+url: http://www.gutenberg.org/ebooks/39454
